@@ -2,7 +2,8 @@
 
 ![ZenithOS](https://raw.githubusercontent.com/L0Wigh/zenith.nvim/master/zenith.nvim.jpg)
 
-ZenithOS was (RIP, long live [ZealOS](https://github.com/Zeal-Operating-System/ZealOS)) a fork of TempleOS
+ZenithOS was (RIP, long live [ZealOS](https://github.com/Zeal-Operating-System/ZealOS)) a fork of TempleOS.
+
 The default theme for ZenithOS was so great that I decided to port it to Neovim.
 
 # Installation
